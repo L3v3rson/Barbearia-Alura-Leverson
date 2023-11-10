@@ -11,3 +11,8 @@ body{
 .Destaque {color:red;}
 
 .Beneficios{text-align: center;}
+
+.imagem-benefício{width: 50%;}
+
+.lista{ display: inline-block; 
+vertical-align: top;}
